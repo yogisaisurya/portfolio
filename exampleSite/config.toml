@@ -103,25 +103,25 @@ author = "authors"
 name = "Github"
 icon = "fa fa-2x fa-github"
 weight = 1
-url = "https://github.com/johndoe/"
+url = "https://github.com/yogisaisurya/"
 
 [[params.social]]
 name = "Instagram"
 icon = "fa fa-2x fa-instagram"
 weight = 2
-url = "https://gitlab.com/johndoe/"
+url = "https://www.instagram.com/yo_giii__/"
 
 [[params.social]]
 name = "Email"
 icon = "fa fa-2x fa-envelope"
 weight = 3
-url = "https://twitter.com/johndoe/"
+url = "mailto: yogisaisurya@gmail.com"
 
 [[params.social]]
 name = "LinkedIn"
 icon = "fa fa-2x fa-linkedin"
 weight = 4
-url = "https://www.linkedin.com/in/johndoe/"
+url = "https://www.linkedin.com/in/b-yogi-sai-surya-780158170/"
 
 
 
