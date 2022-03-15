@@ -17,5 +17,7 @@ Head over to the POSTS for some amazing stuff and shoot me an E-mail for connect
 Contact Info:
 
 Ph: +91-9584166999
+
 Email: yogisaisurya@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/b-yogi-sai-surya-780158170/
