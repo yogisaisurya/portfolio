@@ -156,9 +156,9 @@ name = "Contact me"
 weight = 5
 url = "contact/"
 
-[languages.pt-br]
-languageName = ":brazil:"
-title = "João Ninguém"
+# [languages.pt-br]
+# languageName = ":brazil:"
+# title = "João Ninguém"
 
 [languages.pt-br.params]
 author = "João Ninguém"
