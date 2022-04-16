@@ -6,7 +6,7 @@ aliases = ["about-us", "about-hugo", "contact"]
 author = "Hugo Authors"
 +++
 
-Hii there. I am Yogi
+Hii there. I am Yogi.
 
 I am an M. Tech student at Sri Sathya Sai Institute of Higher Learning in an emerging field of Optoelectronics and Communications. I am a Tech-enthusiast and love building Python based applications. I even design graphics and edit pictures like a PRO. Currently, I am working on an Optical Communications based project "Multiband WDM System Level Analysis". My hobbies are Photography, Graphics designing & Working on Tech based projects.I am exploring to LEARN, to EXPERIENCE & to gain a lot from the life.
 
