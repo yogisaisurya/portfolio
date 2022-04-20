@@ -1,0 +1,68 @@
+.card {
+  background-color: #4f5256;
+  color: white;
+  padding: 2rem;
+  border-radius: .7rem;
+}
+.card h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+}
+.card > p{
+  & a {
+      align-items: center;
+      background-clip: padding-box;
+      background-color: #1578cf;
+      border: 1px solid transparent;
+      border-radius: .55rem;
+      box-shadow: rgba(0, 0, 0, 0.02) 0 1px 3px 0;
+      box-sizing: border-box;
+      color: #fff !important;
+      cursor: pointer;
+      display: inline-flex;
+      font-family: system-ui,-apple-system,system-ui,"Helvetica Neue",Helvetica,Arial,sans-serif;
+      font-size: 16px;
+      font-weight: 600;
+      justify-content: center;
+      line-height: 1.25;
+      margin: 0;
+      min-height: 3rem;
+      padding: calc(.875rem - 1px) calc(1.5rem - 1px);
+      position: relative;
+      text-decoration: none;
+      transition: all 250ms;
+      user-select: none;
+      -webkit-user-select: none;
+      touch-action: manipulation;
+      vertical-align: baseline;
+      width: auto;
+  &:hover {
+      transform: translateY(-1px);
+  }
+  &:active {
+      background-color: #c85000;
+      box-shadow: rgba(0, 0, 0, .06) 0 2px 4px;
+      transform: translateY(0);
+  }
+  &:focus {
+    background-color: #1c1a19;
+    box-shadow: rgba(0, 0, 0, 0.1) 0 4px 12px;
+  }
+}}
+
+
+.cards {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: grid;
+  grid-gap: 1rem;
+}
+
+/* Screen larger than 600px? 2 column */
+@media (min-width: 600px) {
+  .cards { grid-template-columns: repeat(2, 1fr); }
+}
+
+/* Screen larger than 900px? 3 columns */
+@media (min-width: 900px) {
+  .cards { grid-template-columns: repeat(2, 1fr); }
+}
