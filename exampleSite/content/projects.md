@@ -23,7 +23,7 @@ slug = "projects"
 <!-- Project 2 -->
   <div class="card">
 
-  ## Saiscibe
+  ## Saiscribe
 
   This is a web application designed with Django, which facilitate registration of voluntary scribes. The app features user authentication, email notification & Google Calendar integration.
 
