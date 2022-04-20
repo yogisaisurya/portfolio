@@ -27,7 +27,7 @@ slug = "projects"
 
   This is a web application designed with Django, which facilitates registration of voluntary scribes. The app features user authentication, email notification & Google Calendar integration.
 
-  [Github repo](https://github.com/yogisaisurya/saiscribe)  [Website](https://saiscibe.in)
+  [Github repo](https://github.com/yogisaisurya/saiscribe)  [Website](https://saiscribe.in)
 
   </div>
 
